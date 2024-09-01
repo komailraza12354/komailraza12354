@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Komail raza</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komailraza12354&label=Profile%20views&color=0e75b6&style=flat" alt="komailraza12354" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="komailraza12354" /> </p>
 
 
 - 🌱 I’m currently learning **reactjs php**
