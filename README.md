@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Komail raza</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 🌱 I’m currently learning **reactjs php**
+
+- 👨‍💻 All of my projects are available at [https://komailraza12354.github.io/komailportfolio/](https://komailraza12354.github.io/komailportfolio/)
+
+- 📫 How to reach me **komailalvi11@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/komail-raza-627326253) 
